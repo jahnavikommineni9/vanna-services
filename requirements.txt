@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+# add real deps later, e.g.:
+# vanna
+# groq
+# psycopg[binary]
